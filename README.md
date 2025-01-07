@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Sandy9630/Sandy9630/blob/main/background.jpeg)
 <h1 align="center">Hi 👋, I'm Sandeep Patel</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
